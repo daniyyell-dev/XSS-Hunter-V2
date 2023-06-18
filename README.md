@@ -1,6 +1,6 @@
 # XSS Hunter Payloads Chrome Extension
 
-This Chrome extension allows you to easily access all the payloads from [XSS Hunter](https://bxsshunter.com/). It collects all the blind XSS codes and integrates them into a convenient Chrome extension.
+This Chrome extension allows you to easily access all the payloads from XSS Hunter or Your own XSS hunter donain. It collects all the blind XSS codes and integrates them into a convenient Chrome extension.
 
 ![Blindxss in your browser ](https://github.com/daniyyell-dev/XSS-Hunter-V2/raw/main/logo.png)
 
